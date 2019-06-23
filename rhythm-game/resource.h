@@ -2,7 +2,7 @@
 // Microsoft Visual C++ 生成的包含文件。
 // 供 game02.rc 使用
 //
-#define ID_MP3_1                        101
+//#define ID_MP3_1                        101
 
 // Next default values for new objects
 // 

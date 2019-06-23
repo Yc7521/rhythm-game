@@ -37,13 +37,8 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="game02.rc">
+    <ResourceCompile Include="rhythm-game.rc">
       <Filter>资源文件</Filter>
     </ResourceCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="1.mp3">
-      <Filter>资源文件</Filter>
-    </None>
   </ItemGroup>
 </Project>
